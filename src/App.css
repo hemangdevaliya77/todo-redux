@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.todo-heading{
+  font-size: 3rem;
+  background: linear-gradient(135deg, #b700ff, #2575fc);
+  -webkit-background-clip:  text;
+  -webkit-text-fill-color: transparent;
+  margin: 0;
+}
